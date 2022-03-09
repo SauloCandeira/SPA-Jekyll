@@ -16,7 +16,7 @@ Jekyll Theme + Github, desenvolvimento de uma SPA em Jekyll e hospedando no GitH
 ```mermaid
 flowchart LR
 X[Repository] -->|Jekyll-Theme| A[Jekyll]
-A[Github] -->|My-App| B[GH-Pages]
+A[Github] -->|Config.yml| B[GH-Pages]
 
 B --> C{APP}
 C --> J[Tasks]
