@@ -1,5 +1,5 @@
 # Sobre o Projeto:
-SPA Jekyll + Github, desenvolvimento de uma SPA em Jekyll e hospedando no GitHub Pages.
+Jekyll Theme + Github, desenvolvimento de uma SPA em Jekyll e hospedando no GitHub Pages.
 
 
 ### COMANDOS
@@ -15,7 +15,7 @@ SPA Jekyll + Github, desenvolvimento de uma SPA em Jekyll e hospedando no GitHub
 
 ```mermaid
 flowchart LR
-X[Jekyll-Theme] -->|SPA-Jekyll| A[Github]
+X[Repository] -->|Jekyll-Theme| A[Jekyll]
 A[Github] -->|My-App| B[GH-Pages]
 
 B --> C{APP}
