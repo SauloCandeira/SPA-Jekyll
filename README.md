@@ -6,8 +6,9 @@ Jekyll Theme + Github, desenvolvimento de uma SPA em Jekyll e hospedando no GitH
 
 ```
 1º - Criar Repository
-2º - Criar App
-3º - Deploy
+2º - Escolher Tema
+3º - Configurar Tema
+4º - Publicar pagina 
 ```
 
 
