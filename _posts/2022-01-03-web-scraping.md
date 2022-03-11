@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Web Scraping in R"
+subtitle: "Scraping."
+background: '/img/posts/01.jpg'
+---
+
 # Sobre o Projeto:
 Desenvolvimento de um projeto que auxilie na gestao de atividades de cursos.
 
@@ -50,4 +57,3 @@ C --> L[Técnico em Contabilidade]
   </li>
   
 </ul>
-
